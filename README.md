@@ -1,7 +1,7 @@
-![](image.png)
+![alt text](image-1.png)
 
 1. shadcn/ui
-   ui구성
+   ui구성 라이브러리
 
 2. zod로 schema validation 검사
 
