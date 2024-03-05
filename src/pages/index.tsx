@@ -72,7 +72,7 @@ export default function Home() {
       <Card className={cn("w-[380px]")}>
         <CardHeader>
           <CardTitle>계정을 생성합니다</CardTitle>
-          <CardDescription>필수 정보를 입력헤볼게요.</CardDescription>
+          <CardDescription>필수 정보를 입력해주세요.</CardDescription>
         </CardHeader>
         <CardContent>
           <Form {...form}>
